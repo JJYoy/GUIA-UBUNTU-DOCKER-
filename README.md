@@ -1,3 +1,3 @@
-#Guía para crear un script capaz facilitar la creación de contenedores (postgres y dpage/pgadmin4)
+# Guía para crear un script capaz facilitar la creación de contenedores (postgres y dpage/pgadmin4)
 
 
