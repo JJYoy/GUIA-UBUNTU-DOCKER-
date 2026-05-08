@@ -2,7 +2,7 @@
 
 **Nombre:** Yan Ortiz Barrantes
 
-**📄 Documentación adicional:** *([GuiaEnPdf.pdf](https://github.com/JJYoy/GUIA-UBUNTU-DOCKER-/blob/aaacfc42b43ae149b247bf97a54b020a66b40357/CreacionScript.pdf)).*
+**📄 Documentación adicional:** *[GuiaEnPdf.pdf](https://github.com/JJYoy/GUIA-UBUNTU-DOCKER-/blob/aaacfc42b43ae149b247bf97a54b020a66b40357/CreacionScript.pdf).*
 #
 
 Lo primero que haremos será tener una máquina virtual con sus instalaciones debidas de postgress, el servicio de Docker con sus respectivas imágenes (postgres y dpage/pgadmin4)
