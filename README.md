@@ -1,7 +1,8 @@
 # Guía para crear un script capaz facilitar la creación de contenedores (postgres y dpage/pgadmin4)
 
 **Nombre:** Yan Ortiz Barrantes
-**📄 Documentación adicional:** *(Solo recuerda cambiar `./file:///C:/Users/yanen/Downloads/CreacionScript.pdf`).*
+
+**📄 Documentación adicional:** *(`CreacionScript.pdf`).*
 #
 
 Lo primero que haremos será tener una máquina virtual con sus instalaciones debidas de postgress, el servicio de Docker con sus respectivas imágenes (postgres y dpage/pgadmin4)
