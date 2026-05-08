@@ -35,7 +35,8 @@ o
 ```bash
 nano crearDocker.sh
 ```
-Esta dos opciones es para con el que mejor se le haga facil y esten familiarizados 
+Estas dos opciones es para con el que mejor se le haga facil y esten familiarizados 
+##
 
 Ya dentros solamente pegamos este codigo :
 ```bash
