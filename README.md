@@ -121,7 +121,7 @@ case $OPCION in
 esac
 echo "==============================================================="
 ```
-### VERSION MEJORADA 09/05/202
+### VERSION MEJORADA 09/05/2026
 
 ```bash
 
